@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="SmartUpload">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../开发素材/SmartUpload.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../开发素材/mysql-connector-java-5.0.4-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../开发素材/jstl-impl-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../开发素材/javax.servlet.jsp.jstl.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
